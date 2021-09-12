@@ -1,4 +1,4 @@
-module.exports = {
+const livros = {
   produtos: [
     {
       nome: 'incluir'
@@ -26,3 +26,5 @@ module.exports = {
     },
   ],
 }
+
+module.exports = livros
